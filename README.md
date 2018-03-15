@@ -1,6 +1,6 @@
 ### [documentation-theme-default](https://github.com/cutting-room-floor/documentation-theme-default)
 
-![documentation-theme-default preview](./previews/documentation-theme-default?raw=true)
+![documentation-theme-default preview](./previews/documentation-theme-default.png?raw=true)
 
 ### [clean-documentation-theme](https://github.com/dignifiedquire/clean-documentation-theme)
 
@@ -8,8 +8,8 @@
 
 ### [documentation-devseed-theme](https://github.com/developmentseed/documentation-devseed-theme)
 
-![documentation-devseed-theme preview](./previews/documentation-devseed-theme?raw=true)
+![documentation-devseed-theme preview](./previews/documentation-devseed-theme.png?raw=true)
 
 ### [node-mapnik-theme](https://github.com/mapnik/node-mapnik-theme)
 
-![node-mapnik-theme preview](./previews/node-mapnik-theme?raw=true)
+![node-mapnik-theme preview](./previews/node-mapnik-theme.png?raw=true)
